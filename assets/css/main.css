@@ -1,0 +1,46 @@
+#cajaGrande{
+  margin: 20px;
+  background-color: #EC462E;
+  width: 400px;
+  height: 400px;
+  position: relative;
+  left: 450px;
+}
+
+#cajaMediana {
+  background-color: #762E80;
+  width: 200px;
+  height: 200px;
+  top: 100px;
+  left: 100px;
+  position: relative;
+}
+#cajaPeque {
+  background-color: #FFF836;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+#cajaGrande-1 {
+  background-color: #0048FF;
+  margin: 20px;
+  width: 400px;
+  height: 400px;
+  position: relative;
+  left: 450px;
+}
+#cajaMediana-1 {
+  background-color: #387905;
+  width: 200px;
+  height: 200px;
+  top: 100px;
+  left: 100px;
+  position: relative;
+}
+#cajaPeque-1 {
+  background-color: #000100;
+  width: 100px;
+  height: 100px;
+  position:absolute;
+}
